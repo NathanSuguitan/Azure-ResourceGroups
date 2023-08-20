@@ -37,3 +37,11 @@ Sign in to the [Azure portal](https://portal.azure.com).
 Enter *resource groups* in the search to check to see if your resource group was successfully deployed.
 
 ![image](https://github.com/NathanSuguitan/Azure-ResourceGroups/assets/138082246/83b7426a-ee63-42c6-880f-c89b1ff85a3b)
+
+
+## Clean up resources
+When no longer needed, you can delete the resource group, virtual machine, and all related resources.
+
+1. On the Overview page for the VM, select the Resource group link.
+2. At the top of the page for the resource group, select Delete resource group.
+3. A page will open warning you that you are about to delete resources. Type the name of the resource group and select Delete to finish deleting the resources and the resource group.
