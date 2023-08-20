@@ -1,5 +1,7 @@
 # Create a Resource Group in the Azure portal.
 
+This tutorial outlines the prerequisites and deployment of an Azure Resource Group
+
 - Resource groups are logical containers where you can deploy and manage Azure resources like web apps, databases, and storage accounts.
 - Resources are instances of services that you can create, such as virtual machines, storage, and SQL databases.
 
