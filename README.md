@@ -1,3 +1,6 @@
+![1_7WxcYBGywvYug9j2EJhToQ](https://github.com/NathanSuguitan/Azure-ResourceGroups/assets/138082246/be546030-2955-453f-b444-733f70f88c23)
+
+
 # Create a Resource Group in the Azure portal.
 
 This tutorial outlines the prerequisites and deployment of an Azure Resource Group
