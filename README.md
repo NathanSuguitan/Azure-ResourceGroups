@@ -28,6 +28,7 @@ Sign in to the [Azure portal](https://portal.azure.com).
 
 8. Select **create** at the bottom of page.
 
-9. Enter *resource groups* in the search to check to see if your resource group was successfully deployed.
+## Confirm deployment
+Enter *resource groups* in the search to check to see if your resource group was successfully deployed.
 
 ![image](https://github.com/NathanSuguitan/Azure-ResourceGroups/assets/138082246/83b7426a-ee63-42c6-880f-c89b1ff85a3b)
